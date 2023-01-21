@@ -2,7 +2,6 @@
    <a href="https://github.com/guilhermecandidosantos">
       <img alt="Made by guilhermecandidosantos" src="https://img.shields.io/badge/made%20by-guilhermecandidosantos-green" />
    </a>
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/guilhermecandidosantos/nlw-setup-ignite" />
    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/guilhermecandidosantos/nlw-setup-ignite" />
    <a href="https://github.com/guilhermecandidosantos/nlw-setup-ignite/commits/main">
       <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/guilhermecandidosantos/nlw-setup-ignite">
