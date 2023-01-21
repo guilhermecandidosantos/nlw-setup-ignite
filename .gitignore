@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+node-modules
+
+
+# vscode
+.vscode/
+/.vscode
+
+# expo
+.expo/
+/.expo
+
+# production
+*/build
+*/dist
+/build
+/dist
+
