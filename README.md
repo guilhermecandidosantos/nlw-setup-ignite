@@ -15,7 +15,7 @@
 
 <br />
 
-<img src=".github/assets/habits.svg" alt="Learning NLW Setup" />
+<img src="./assets/habits.svg" alt="Learning NLW Setup" />
 
 Esse projeto foi desenvolvido durante a **NLW Setup** da trilha **Ignite**, o **NLW(Next Level Week)** é um evento produzido pela **<a href="https://rocketseat.com.br" target="_blank">Rocketseat</a>**
 
